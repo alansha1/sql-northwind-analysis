@@ -33,7 +33,8 @@ Demonstrates core and advanced SQL techniques used in real business analytics ro
 - Revenue grew **113%** year-on-year from 1996 (€198k) to 1997 (€423k)
 - **Robert King** is the top-performing employee by sales revenue
 - **36.5%** of Italy's order value goes to freight — the highest freight-to-revenue ratio
-
+## Project Overview
+[View Architecture Diagram](https://claude.ai/artifact/CMu75aMBWd3C6y5g3pAurY)
 ## SQL Concepts Covered
 
 - Multi-table JOINs (2 and 3 tables)
