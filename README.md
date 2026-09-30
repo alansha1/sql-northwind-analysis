@@ -45,7 +45,8 @@ Demonstrates core and advanced SQL techniques used in real business analytics ro
 - Window functions: SUM() OVER, RANK() OVER, PARTITION BY
 - Date functions: strftime()
 - Calculated fields and ratio analysis
-
+## Project Overview
+[View Architecture Diagram](https://claude.ai/artifact/CMu75aMBWd3C6y5g3pAurY)
 ## About
 
 Built as part of a data analytics portfolio to demonstrate practical SQL skills on a real-world style dataset.  
